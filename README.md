@@ -1,2 +1,1 @@
 # Tetris-manifest
-Tetris-manifest
